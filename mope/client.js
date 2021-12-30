@@ -5076,7 +5076,7 @@ if (KTestingModeON) {
   if (ACTIVATEOURGAMEMODE) {
     addServerDef("FFA", "ahmetcan-channel-1.paiza-user-free.cloud/", reg, "80");
   } else {
-    addServerDef("Sandbox", "https://mopesandbox2.herokuapp.com/", reg, "80");
+    addServerDef("Sandbox", "bc68-203-96-129-111.ap.ngrok.io", reg, "80");
     //addServerDef("Server For Test updates", "127.0.0.1", reg,"80");
 
     //reg = "FFA";
